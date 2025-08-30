@@ -12,7 +12,7 @@ export default function Home() {
           <Header/>
 
           <section className="flex flex-col justify-center">
-             <h1 className="lg:text-4xl text-3xl flex justify-center mb-6  items-end h-[100px]">Conheça Nossas acomodações</h1>
+             <h1 className="lg:text-4xl text-[26px] flex justify-center mb-6  items-end h-[100px]">Conheça Nossas acomodações</h1>
 
              <div className=" gird grid-cols-1 lg:grid pl-3 lg:pl-10 lg:grid-cols-3 items-center w-full  lg:h-[600px] text-center">
                 <div className="mb-10">

@@ -10,8 +10,8 @@ export default function Header(){
            <h1 className='md:text-4xl text-2xl '>Pousada Ubatuba</h1>
            <p className='font-bold text-[14px]'>Av. Leovigildo Dias Vieira, Itaguá, Ubatuba - SP, 11688-600</p>
 
-           <nav className='bg-white lg:w-[800px] text-black border-2 border-black border-solid absolute top-[350px] w-[400px] h-[100px]'>
-             <ul className='lg:w-[800px] w-[400px] h-[100px] flex justify-around items-center lg:text-[18px] font-bold'>
+           <nav className='bg-white lg:w-[800px] text-black border-2 border-black border-solid md:absolute lg:top-[350px] absolute top-[320px]  lg: w-[380px] h-[100px]'>
+             <ul className='lg:w-[800px] w-[380px] h-[100px] flex justify-around items-center lg:text-[18px] font-bold'>
                 <li>
                     <Link href="">Página Inicial</Link>
                     
